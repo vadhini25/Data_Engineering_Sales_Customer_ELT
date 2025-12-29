@@ -7,3 +7,7 @@
 - Automated monthly sales calculations for **billing staff incentives** and analyzed **customer purchase patterns** to support targeted discount and coupon strategies.
 
 - Generated **daily and monthly sales reports** to track revenue trends and support data-driven **inventory optimization** and **staffing decisions**.
+
+- Tech Stack: Python, PySpark, SQL, AWS S3
+
+
